@@ -1,3 +1,3 @@
 # Arrigan Boneweaver
 
-Necromancer Character I am working on.
+Human Necromancer Character I am working on.
